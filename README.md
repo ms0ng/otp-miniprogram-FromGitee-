@@ -1,5 +1,7 @@
 # OTP
 
+这个项目是从Gitee搬运过来的 -> [点击传送至原项目地址](https://gitee.com/ghostmemory/otp)
+
 #### 介绍
 
 基于时间戳算法（TOTP）的动态验证码微信小程序，兼容Google Authenticator二步验证。
